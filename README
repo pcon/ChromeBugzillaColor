@@ -1,0 +1,6 @@
+This project is for a simple Chrome plugin to change how bugzilla looks.
+
+Currently this plugin does the following:
+- Move the header to be sticky at the top of the page with the bug information
+- Removes some unused fields
+- Fixed some width issues

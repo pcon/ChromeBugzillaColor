@@ -1,0 +1,13 @@
+{
+	"name": "Bugzilla Color",
+	"version": "1.1",
+	"description": "Resets the colors in bugzilla",
+	"update_url": "http://pconnell.dev.gss.redhat.com/extensions/bugzillaColor/updates.xml",
+	"icons": {
+          "48": "icon48.png",
+          "128": "icon128.png" },
+	"content_scripts": [ {
+		"matches": ["https://bugzilla.redhat.com/*"],
+		"js": ["jquery.js", "bugzillaColor.js"]
+	}]
+}
