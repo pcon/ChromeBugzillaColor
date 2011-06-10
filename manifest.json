@@ -1,6 +1,6 @@
 {
 	"name": "Bugzilla Color",
-	"version": "1.1",
+	"version": "1.2",
 	"description": "Resets the colors in bugzilla",
 	"update_url": "http://pconnell.dev.gss.redhat.com/extensions/bugzillaColor/updates.xml",
 	"icons": {

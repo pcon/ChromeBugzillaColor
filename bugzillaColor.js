@@ -10,7 +10,6 @@ jQuery.each(priority, function(key, value) {
 });
 
 //Hide unused stuff
-jQuery('#alias_edit_area:parent').parent().parent().hide();
 jQuery('#bz_url_edit_container:parent').parent().parent().hide();
 jQuery('#field_label_see_also:parent').parent().hide();
 jQuery('#field_label_cf_fixed_in:parent').parent().hide();
